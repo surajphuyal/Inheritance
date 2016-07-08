@@ -1,0 +1,2 @@
+# Inheritance
+program using inheritance
